@@ -14,6 +14,7 @@
 | 名稱                             | 描述                                          | 教學                                                         |
 | -------------------------------- | --------------------------------------------- | ------------------------------------------------------------ |
 | spring-boot-demo-aop             | 在 Spring Boot 中配置 Spring AOP              |                                                              |
+| spring-boot-demo-hateoas         | 在 Spring Boot 中使用 Spring Hateoas          |                                                              |
 | spring-boot-demo-interceptor     | 在 Spring Boot 中配置攔截器 Interceptor       |                                                              |
 | spring-boot-demo-jpa             | 在 Spring Boot 中使用 Spring Data JPA         |                                                              |
 | spring-boot-demo-oauth1a-twitter | 使用 Spring Boot 實作 OAuth 1.0a 綁定 Twitter | [文章教學](https://kucw.github.io/blog/2019/12/spring-oauth1a-bind-twitter/) |
