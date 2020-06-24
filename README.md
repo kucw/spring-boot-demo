@@ -14,6 +14,7 @@
 | 名稱                             | 描述                                          | 教學                                                         |
 | -------------------------------- | --------------------------------------------- | ------------------------------------------------------------ |
 | spring-boot-demo-aop             | 在 Spring Boot 中配置 Spring AOP              |                                                              |
+| spring-boot-demo-async           | 使用 Spring Boot 的 @Async 功能               |                                                              |
 | spring-boot-demo-hateoas         | 在 Spring Boot 中使用 Spring Hateoas          |                                                              |
 | spring-boot-demo-interceptor     | 在 Spring Boot 中配置攔截器 Interceptor       |                                                              |
 | spring-boot-demo-jpa             | 在 Spring Boot 中使用 Spring Data JPA         |                                                              |
